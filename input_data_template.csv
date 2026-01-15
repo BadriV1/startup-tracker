@@ -1,0 +1,3 @@
+company_name,funding_amount,location,status,ipo_status,funding_round,description,website,founded_year
+Example Startup Inc,150000000,"San Francisco, USA",active,private,Series C,AI-powered analytics platform,https://example.com,2018
+Euro Tech GmbH,200M,"Berlin, Germany",active,private,Series D,Enterprise SaaS solution,https://eurotech.example,2016
